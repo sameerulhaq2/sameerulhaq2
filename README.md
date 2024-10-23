@@ -9,6 +9,8 @@
     
 - <b> PowerBI and SQL</b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
+  - [Executive Sales Dashboard](https://github.com/sameerulhaq2/Sales-Dashboard)
+  
 
     
 <h2>🌱 I’m currently learning:</h2>
