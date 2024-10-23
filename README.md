@@ -34,7 +34,7 @@
 
 <h2>🎯 Future Goals </h2>
 - 💼 Become an expert in Business Intelligence and Data Visualization, leveraging tools like Power BI and SAP Analytics Cloud.</br>
-- 🧠 Establish myself as a Data Scientist, specializing in machine learning and predictive analytics.
+- 🧠 Establish myself as a Data Scientist, specializing in machine learning, NLP and predictive analytics.
  
 <h2> 🤳 Connect with me:</h2>
 
