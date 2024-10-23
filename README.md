@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**sameerulhaq2/sameerulhaq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h1>👋Hi, I'm Sameer! <br/>
+<h2> <a href="https://www.linkedin.com/in/sameer-ul-haq/"> Data Science and Business Intelligence Professional</a> </a> | <a> Turning Data into Strategic Business Insights </a> | <a> Data Science Learner </a> | <a href="https://github.com/sameerulhaq2"> BI Enthusiast </a></h2>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Data Science and Analytics Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python and NLP</b>
+  - [Text Analytics on Movie Reviews](https://github.com/sameerulhaq2/Text-Analytics-Project)
+    
+- <b> PowerBI and SQL</b>
+  - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
+
+    
+<h2>🌱 I’m currently learning:</h2>
+  - Machine learning<br/>
+  - Big Data <br/>
+  - Natural Language Processing (NLP) <br/>
+  - Deep Learning <br/>
+  - Data Visualisation <br/>
+
+<h2> 📑 Certifications </h2>
+
+ - [SAP Certified Application Associate - SAP Analytics Cloud Story Design](https://www.credly.com/badges/9e83ece5-f8c7-4fd0-b939-c53c69d567f7/linked_in_profile)
+ - [SAS - Asia Pacific University of Technology and Innovation Joint Certificate in Computer Science and Data Analytics](https://www.credly.com/badges/2091cb6e-0c8d-48cf-bbb2-62c531007d9b/linked_in_profile)
+
+<h2>🏗️ What I’m Currently Working On </h2>
+- 📋 Power BI Data Analyst (PL-300) Certification: Enhancing my skills to become certified in Power BI, mastering advanced data visualization, and analytical tools.</br>
+- 🎓 Data Scientist Track on DataCamp: Expanding my knowledge in machine learning, data analysis, and NLP with hands-on projects and challenges.
+
+<h2>🤝 Open to Opportunities</h2>
+
+- 🔍 Currently seeking entry-level, part-time or freelance roles where I can apply my expertise in business intelligence, data analysis, and machine learning.
+- 💡 Open to collaborations on Power BI dashboards, data science, machine learning and NLP projects.
+
+<h2>🎯 Future Goals </h2>
+- 💼 Become an expert in Business Intelligence and Data Visualization, leveraging tools like Power BI and SAP Analytics Cloud.</br>
+- 🧠 Establish myself as a Data Scientist, specializing in machine learning and predictive analytics.
+ 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="SAMEER UL HAQ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/sameer-ul-haq
