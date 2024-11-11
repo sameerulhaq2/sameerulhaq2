@@ -41,6 +41,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SAMEER UL HAQ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SAMEER UL HAQ | Upwork" width="22px" src="https://cdn.icon-icons.com/icons2/2648/PNG/512/logo_upwork_square_icon_160814.png" />][upwork]
+
 
 
 [linkedin]: https://www.linkedin.com/in/sameer-ul-haq
+[upwork]: https://www.upwork.com/freelancers/~01825ae2db97253db3?mp_source=share
+
+
