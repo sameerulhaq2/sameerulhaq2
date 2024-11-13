@@ -7,7 +7,7 @@
 - <b>Python and NLP</b>
   - [Text Analytics on Movie Reviews](https://github.com/sameerulhaq2/Text-Analytics-Project)
     
-- <b> PowerBI and SQL</b>
+- <b> PowerBI </b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
   - [Executive Sales Dashboard](https://github.com/sameerulhaq2/Sales-Dashboard)
   
