@@ -10,6 +10,7 @@
 - <b> PowerBI </b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
   - [Executive Sales Dashboard](https://github.com/sameerulhaq2/Sales-Dashboard)
+  - [Supply Chain Dashboard](https://github.com/sameerulhaq2/Supply-Chain-Dashboard)
   
 
     
