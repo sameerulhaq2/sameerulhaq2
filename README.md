@@ -10,7 +10,7 @@
     - [Text Analytics on Movie Reviews](https://github.com/sameerulhaq2/Text-Analytics-Project)
       
   - <b>Machine Learning</b>
-  
+    - [Heart Disease Prediction](https://github.com/sameerulhaq2/HeartdiseasepredictionFYP/blob/main/README.md)
     
 - <b> PowerBI </b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
