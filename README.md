@@ -4,8 +4,13 @@
 
 <h2>👨‍💻 Data Science and Analytics Projects:</h2>
 
-- <b>Python and NLP</b>
-  - [Text Analytics on Movie Reviews](https://github.com/sameerulhaq2/Text-Analytics-Project)
+- <b>Python</b>
+
+  - <b>NLP</b>
+    - [Text Analytics on Movie Reviews](https://github.com/sameerulhaq2/Text-Analytics-Project)
+      
+  - <b>Machine Learning</b>
+  
     
 - <b> PowerBI </b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
