@@ -11,6 +11,7 @@
       
   - <b>Machine Learning</b>
     - [Heart Disease Prediction](https://github.com/sameerulhaq2/HeartdiseasepredictionFYP/blob/main/README.md)
+    - [Stroke Prediction](https://github.com/sameerulhaq2/Stroke-Prediction)
     
 - <b> PowerBI </b>
   - [Maven Sales Analytics Dashboard](https://github.com/sameerulhaq2/Maven_Sales_Project)
