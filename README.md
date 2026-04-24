@@ -44,7 +44,7 @@
 - 💡 Open to collaborations on Power BI dashboards, data science, machine learning and NLP projects.
 
 <h2>🎯 Future Goals </h2>
-- 💼 Become an expert in Business Intelligence and Data Visualization, leveraging tools like Power BI and SAP Analytics Cloud.</br>
+- 💼 Become an expert in Business Intelligence and Data Visualization, leveraging tools like Power BI and SQL.</br>
 - 🧠 Establish myself as a Data Scientist, specializing in machine learning, NLP and predictive analytics.
  
 <h2> 🤳 Connect with me:</h2>
