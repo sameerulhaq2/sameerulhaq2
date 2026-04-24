@@ -31,7 +31,9 @@
 
  - [SAP Certified Application Associate - SAP Analytics Cloud Story Design](https://www.credly.com/badges/9e83ece5-f8c7-4fd0-b939-c53c69d567f7/linked_in_profile)
  - [SAS - Asia Pacific University of Technology and Innovation Joint Certificate in Computer Science and Data Analytics](https://www.credly.com/badges/2091cb6e-0c8d-48cf-bbb2-62c531007d9b/linked_in_profile)
-
+ - Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
+ - Microsoft Certified: Azure Data Fundamentals (DP-900)
+   
 <h2>🏗️ What I’m Currently Working On </h2>
 - 📋 Power BI Data Analyst (PL-300) Certification: Enhancing my skills to become certified in Power BI, mastering advanced data visualization, and analytical tools.</br>
 - 🎓 Data Scientist Track on DataCamp: Expanding my knowledge in machine learning, data analysis, and NLP with hands-on projects and challenges.
