@@ -36,7 +36,7 @@
    
 <h2>🏗️ What I’m Currently Working On </h2>
 - 📋 Power BI Data Analyst (PL-300) Certification: Enhancing my skills to become certified in Power BI, mastering advanced data visualization, and analytical tools.</br>
-- 🎓 Data Analyst Tracks with Snowflake and Databricks on DataCamp: Expanding my knowledge in data warehouse,data modelling data analysis with hands-on projects and challenges.
+- 🎓 Data Analyst Tracks with Snowflake and Databricks on DataCamp: Expanding my knowledge in data warehouse,data modelling, data analysis with hands-on projects and challenges.
 
 <h2>🤝 Open to Opportunities</h2>
 
